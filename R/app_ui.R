@@ -21,6 +21,10 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # Your application UI logic
     page_fluid(
+
+#      titlePanel("",
+#                 tags$head(tags$link(rel = "icon", type = "png", href = "icons/icon-144.png"),
+#                           tags$title("Convergent Loupe Search Tool"))),
       useShinyjs(),
       theme = bs_add_variables(
         bs_theme(

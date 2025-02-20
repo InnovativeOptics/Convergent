@@ -2,7 +2,7 @@
 title: "Convergent"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{AMD}
+  %\VignetteIndexEntry{Convergent}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---

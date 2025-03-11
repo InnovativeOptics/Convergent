@@ -5,7 +5,7 @@ account: inva
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 14045607
-bundleId: 9827448
+bundleId: 9922461
 url: https://inva.shinyapps.io/Convergent/
 version: 1
 asMultiple: FALSE
